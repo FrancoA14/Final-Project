@@ -1,0 +1,57 @@
+body {
+  padding-top: 5rem;
+  background-image: url(background.jpg);
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+@media (max-width: 600px) {
+    .product-card {
+      flex: 1 46%;
+    }
+  }
+
+.product-image img {
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: 25%;
+}
+
+.product-info {
+    margin-top: auto;
+    margin-left: 45%;
+    color:black;
+}
+
+#footer {
+  background: #000;
+  padding: 0 0 30px 0;
+  color: white;
+  font-size: 14px;
+}
+
+#footer .copyright {
+  text-align: center;
+  padding-top: 30px;
+  color: white;
+}
+
+#footer .credits {
+  text-align: center;
+  font-size: 13px;
+  color:white;
+}

@@ -1,0 +1,38 @@
+body {
+    padding-top: 5rem;
+    background-image: url(background.jpg);
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+    color: white;
+}
+  
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+.opening{
+    font-size: 80px;
+    color: white;
+    background-color: black;
+}
+
+#footer {
+    background: #000;
+    padding: 0 0 30px 0;
+    color: #eee;
+    font-size: 14px;
+}
+
+#footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#footer .credits {
+    text-align: center;
+    font-size: 13px;
+    color: #ddd;
+}

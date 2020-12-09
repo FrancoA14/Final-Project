@@ -1,0 +1,13 @@
+body {
+  padding-top: 5rem;
+  background-image: url(background.jpg);
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
